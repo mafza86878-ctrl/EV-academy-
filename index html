@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EV Academy</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- Header -->
+
+<header>
+
+  <div class="logo">
+
+    <img src="https://i.postimg.cc/vHv6ppDx/file-0000000050fc81f4a2b56b9bbde4ffda.png" alt="EV Academy Logo">
+
+    <span>EV Academy</span>
+
+  </div>
+
+  <nav>
+
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#courses">Courses</a>
+    <a href="#reviews">Reviews</a>
+    <a href="#faq">FAQ</a>
+    <a href="#contact">Contact</a>
+
+  </nav>
+
+  <button id="theme-toggle">🌙</button>
+
+</header>
+
+<!-- Hero Section -->
+
+<section class="hero" id="home">
+
+  <div class="hero-text">
+
+    <h1>Learn Future Skills With EV Academy</h1>
+
+    <p>
+
+      Learn AI, Prompt Engineering, Video Editing,
+      Digital Marketing, Content Creation and other
+      future-ready skills with practical projects.
+
+    </p>
+
+    <div class="hero-buttons">
+
+      <a href="#courses" class="btn1">
+        Explore Courses
+      </a>
+
+      <a href="#contact" class="btn2">
+        Contact Us
+      </a>
+
+    </div>
+
+  </div>
+
+  <div class="hero-image">
+
+    <img src="https://i.postimg.cc/vHv6ppDx/file-0000000050fc81f4a2b56b9bbde4ffda.png" alt="EV Academy">
+
+    <div class="floating-card">
+      🚀 Learn • Create • Grow
+    </div>
+
+  </div>
+
+</section><!-- About Section -->
+
+<section id="about" class="about">
+
+  <div class="about-image">
+
+    <img src="https://i.postimg.cc/vHv6ppDx/file-0000000050fc81f4a2b56b9bbde4ffda.png" alt="EV Academy">
+
+  </div>
+
+  <div class="about-content">
+
+    <h2>About EV Academy</h2>
+
+    <p>
+      EV Academy is a modern online learning platform where
+      students learn AI, Prompt Engineering, Digital Marketing,
+      Video Editing, Content Creation and many future-ready skills
+      through simple Urdu lessons.
+    </p>
+
+    <p>
+      Our mission is to help beginners build valuable digital
+      skills and create better career opportunities.
+    </p>
+
+    <a href="#courses" class="btn1">Start Learning</a>
+
+  </div>
+
+</section>
+
+<!-- Why Choose Us -->
+
+<section class="why">
+
+  <h2 class="section-title">Why Choose EV Academy?</h2>
+
+  <div class="why-grid">
+
+    <div class="why-card">
+
+      <h3>🤖 AI Skills</h3>
+
+      <p>
+        Learn the latest AI tools and Prompt Engineering
+        from beginner to advanced.
+      </p>
+
+    </div>
+
+    <div class="why-card">
+
+      <h3>🎬 Practical Learning</h3>
+
+      <p>
+        Every lesson includes practical examples
+        and real-world projects.
+      </p>
+
+    </div>
+
+    <div class="why-card">
+
+      <h3>💼 Career Growth</h3>
+
+      <p>
+        Build digital skills that help you start
+        freelancing and online earning.
+      </p>
+
+    </div>
+
+  </div>
+
+</section><!-- Courses Section -->
+
+<section id="courses" class="courses">
+
+  <h2 class="section-title">Our Courses</h2>
+
+  <div class="course-grid">
+
+    <div class="course-card">
+
+      <h3>🤖 AI Prompt Engineering</h3>
+
+      <p>
+        Learn how to write professional AI prompts
+        for ChatGPT and other AI tools.
+      </p>
+
+      <a href="#" class="btn1">Coming Soon</a>
+
+    </div>
+
+    <div class="course-card">
+
+      <h3>🎬 Video Editing</h3>
+
+      <p>
+        Master mobile and desktop video editing
+        with practical projects.
+      </p>
+
+      <a href="#" class="btn1">Coming Soon</a>
+
+    </div>
+
+    <div class="course-card">
+
+      <h3>📈 Digital Marketing</h3>
+
+      <p>
+        Learn social media marketing,
+        branding and online growth.
+      </p>
+
+      <a href="#" class="btn1">Coming Soon</a>
+
+    </div>
+
+  </div>
+
+</section>
+
+<!-- Reviews Section -->
+
+<section id="reviews" class="reviews">
+
+  <h2 class="section-title">Student Reviews</h2>
+
+  <div class="review-grid">
+
+    <div class="review-card">
+
+      <p>
+        ⭐⭐⭐⭐⭐ <br><br>
+        Amazing learning experience. Everything is explained in a simple way.
+      </p>
+
+      <h4>— Student</h4>
+
+    </div>
+
+    <div class="review-card">
+
+      <p>
+        ⭐⭐⭐⭐⭐ <br><br>
+        Best platform for learning AI and future skills.
+      </p>
+
+      <h4>— Student</h4>
+
+    </div>
+
+  </div>
+
+</section>
+<!-- FAQ Section -->
+
+<section id="faq" class="faq">
+
+  <h2 class="section-title">Frequently Asked Questions</h2>
+
+  <div class="faq-item">
+
+    <h3>Is EV Academy beginner friendly?</h3>
+
+    <p>
+      Yes. Every course starts from the basics, so beginners can learn easily.
+    </p>
+
+  </div>
+
+  <div class="faq-item">
+
+    <h3>Will I get practical projects?</h3>
+
+    <p>
+      Yes. Every course includes practical exercises and real-world projects.
+    </p>
+
+  </div>
+
+  <div class="faq-item">
+
+    <h3>Can I learn from my mobile?</h3>
+
+    <p>
+      Absolutely. All courses are designed for both mobile and desktop users.
+    </p>
+
+  </div>
+
+</section>
+
+<!-- Contact Section -->
+
+<section id="contact" class="contact">
+
+  <h2 class="section-title">Contact Us</h2>
+
+  <p>
+    Have questions? We'd love to hear from you.
+  </p>
+
+  <a href="mailto:itsmeena180@gmail.com" class="btn1">
+    Email Us
+  </a>
+
+</section>
+
+<!-- Footer -->
+
+<footer>
+
+  <p>
+    © 2026 EV Academy. All Rights Reserved.
+  </p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
